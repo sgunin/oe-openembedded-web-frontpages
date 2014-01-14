@@ -1,0 +1,34 @@
+.oe-blue {
+  background: #d5f1f6;
+}
+
+.jumbotron.jumbo-reduce-padding {
+  padding: 25px 40px 20px 40px;
+}
+
+.jumbotron {
+  background: #EDEDED;
+}
+
+.spacer {
+  margin-top: 20px;
+}
+
+.unified-padding {
+  padding: 10px;
+}
+
+.unified-margin {
+  margin: 10px;
+}
+
+.no-margin {
+  margin: 0px;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #555;
+  background-color: #96dce9;
+}
