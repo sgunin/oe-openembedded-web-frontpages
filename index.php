@@ -65,7 +65,7 @@
         </div>
         <div class="col-md-4">
           <div class="panel panel-info">
-            <div class="panel-heading"><h4 class="text-center no-margin"><strong>Available Packages</strong></h4></div>
+            <div class="panel-heading"><h4 class="text-center no-margin"><strong>Available Recipes</strong></h4></div>
             <ul class="list-group">
               <li class="list-group-item"><strong>Display Servers | </strong>X11 and Wayland</li>
               <li class="list-group-item"><strong>Desktops | </strong>Gnome, KDE, Enlightenment and more</li>
